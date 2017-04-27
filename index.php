@@ -1,6 +1,19 @@
 <?php require 'functions.php'; ?>
 <!DOCTYPE html>
 <html>
+<meta name="twitter:card" content="verizon">
+<meta name="twitter:site" content="verizon">
+<meta name="twitter:description" content="sample twetter deeplink testing">
+<meta name="twitter:app:country" content="US">
+<meta name="twitter:app:name:iphone" content="My Verizon">
+<meta name="twitter:app:id:iphone" content="929750075">
+<meta name="twitter:app:url:iphone" content="openmvm://?pageType=productDetails&sourceID=SmartLink&deviceProdId=dev7480001">
+<meta name="twitter:app:name:ipad" content="My Verizon">
+<meta name="twitter:app:id:ipad" content="929750075">
+<meta name="twitter:app:url:ipad" content="openmvm://?pageType=productDetails&sourceID=SmartLink&deviceProdId=dev7480001">
+<meta name="twitter:app:name:googleplay" content="MyVerizon">
+<meta name="twitter:app:id:googleplay" content="com.vzw.hss.myverizon">
+<meta name="twitter:app:url:googleplay" content="openmvm://?pageType=productDetails&sourceID=SmartLink&deviceProdId=dev7480001">
 <head>
     <meta charset="utf-8" />
     <title><?php siteName(); ?> | <?php pageTitle(); ?></title>
