@@ -1,7 +1,7 @@
 <?php require 'functions.php'; ?>
 <!DOCTYPE html>
 <html>
-<meta name="twitter:card" content="verizon">
+<meta name="twitter:card" content="app">
 <meta name="twitter:site" content="verizon">
 <meta name="twitter:description" content="sample twetter deeplink testing">
 <meta name="twitter:app:country" content="US">
